@@ -2,20 +2,20 @@ about:
   description: "TUI Application to manage Obsidian notes directly from the terminal"
   license: Apache-2.0
   homepage: basalt.page
-  head: d049fd1
+  head: a2fc07c
   archived: false
   latestVersion: "nightly"
   latestRelease: "basalt/v0.12.7"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-09T04:52:12Z
+  collectedAt: 2026-09-09T19:13:59Z
 timeline:
   created: 2023-09-19
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-16
   lastRelease: 2026-08-14
   lastPrerelease: 2026-08-16
 popularity:
-  star: 1340
+  star: 1341
   watcher: 8
   fork: 39
   release: 50
@@ -35,61 +35,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 32
-    openPR: 1
+    mergedPR: 33
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 50
+    commit: 51
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 64
-    openPR: 2
+    mergedPR: 65
+    openPR: 1
     closedIssue: 2
     openIssue: 0
-    commit: 85
+    commit: 86
   last90d:
     since: 2026-06-11
     release: 3
-    mergedPR: 103
-    openPR: 2
+    mergedPR: 104
+    openPR: 1
     closedIssue: 5
     openIssue: 3
-    commit: 143
+    commit: 144
   last180d:
     since: 2026-03-13
     release: 6
-    mergedPR: 193
-    openPR: 2
+    mergedPR: 194
+    openPR: 1
     closedIssue: 16
     openIssue: 6
-    commit: 293
+    commit: 294
   last360d:
     since: 2025-09-14
     release: 22
-    mergedPR: 434
-    openPR: 2
+    mergedPR: 435
+    openPR: 1
     closedIssue: 42
     openIssue: 18
-    commit: 659
+    commit: 660
   last720d:
     since: 2024-09-19
     release: 50
-    mergedPR: 498
-    openPR: 2
+    mergedPR: 499
+    openPR: 1
     closedIssue: 78
     openIssue: 39
-    commit: 1160
+    commit: 1162
 total:
   release: 50
-  mergedPR: 498
-  openPR: 2
+  mergedPR: 499
+  openPR: 1
   closedIssue: 78
   openIssue: 39
-  commit: 1160
+  commit: 1162
 ---
 path: /home/runner/.x-repo/github.com/erikjuhani/basalt
-collectedAt: 2026-09-09T04:52:16Z
+collectedAt: 2026-09-09T19:14:06Z
 loc:
   Rust:
     code: 18864
