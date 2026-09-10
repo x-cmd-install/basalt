@@ -1,0 +1,64 @@
+- repo: aur
+  srcname: basalt
+  binname: basalt
+  visiblename: basalt
+  version: 0.12.7
+  origversion: 0.12.7-1
+  status: newest
+  summary: A TUI Application to manage Obsidian notes
+  maintainers:
+    - danicatgames@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: basalt-bin
+  binname: basalt-bin
+  visiblename: basalt-bin
+  version: 0.12.7
+  origversion: 0.12.7-2
+  status: newest
+  summary: TUI Application to manage Obsidian vaults and notes directly from the terminal
+  maintainers:
+    - aik2@aur
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: basalt-tui
+  visiblename: basalt-tui
+  version: 0.12.7
+  origversion: null
+  status: newest
+  summary: Basalt TUI application for Obsidian notes.
+- repo: nix_stable_25_11
+  srcname: basalt
+  visiblename: basalt
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: TUI Application to manage Obsidian notes directly from the terminal
+  maintainers:
+    - faukah@github
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: basalt
+  visiblename: basalt
+  version: 0.12.4
+  origversion: null
+  status: outdated
+  summary: TUI Application to manage Obsidian notes directly from the terminal
+  maintainers:
+    - faukah@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: basalt
+  visiblename: basalt
+  version: 0.12.7
+  origversion: null
+  status: newest
+  summary: TUI Application to manage Obsidian notes directly from the terminal
+  maintainers:
+    - faukah@github
+  licenses:
+    - MIT

@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "basalt/v0.12.7"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T16:39:06Z
+  collectedAt: 2026-09-10T20:53:10Z
 timeline:
   created: 2023-09-19
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 2026-08-16
 popularity:
-  star: 1341
+  star: 1342
   watcher: 8
   fork: 39
   release: 50
@@ -89,7 +89,7 @@ total:
   commit: 1162
 ---
 path: /home/runner/.x-repo/github.com/erikjuhani/basalt
-collectedAt: 2026-09-10T16:39:31Z
+collectedAt: 2026-09-10T20:53:16Z
 loc:
   Rust:
     code: 18864
