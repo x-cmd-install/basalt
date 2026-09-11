@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1682566,
       "digest": "sha256:7060b1bf70686afece181c8c0fb09c285169ab1c8d15e96b82f84e87bca9045d",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:182b92fe86112a91ae74163108cca773dc48bd36841bcc4a9563d03318e33616",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1657691,
       "digest": "sha256:23bdff650a22553bfd93f0500d3f31741c43e8ea1860f9057d175c2a5a4325c7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2535233,
       "digest": "sha256:a695105ff92c8a3072ab8e147f7313dae83e382ab3056b876b089391e9383457",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-pc-windows-gnu.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 176,
       "digest": "sha256:6de04dea33fdae4fb5c5c44c3c3d36ca0fa864d14b4aad0754fe92bbe1495eb3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-pc-windows-gnu.zip.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1388811,
       "digest": "sha256:8b5e1138f64ddd5c994f86f003d70a9e672d5cfef8dededc8e0d0aa09da62e03",
-      "download_count": 150,
+      "download_count": 154,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 177,
       "digest": "sha256:e356ec49d6f5f0eca7f0c5b6ff5a252b85920650b688b39bd61dc9c6481643ca",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-pc-windows-msvc.zip.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1718252,
       "digest": "sha256:9db8679eac68eb6d84ca1c1b7b0e23351a61c2bda34c7d3652b325554c3f52d7",
-      "download_count": 251,
+      "download_count": 257,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-unknown-linux-gnu.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1792332,
       "digest": "sha256:3ed2788769463387c2050440b078476b7ce496258b37a7559aa5483ca2906cf8",
-      "download_count": 110,
+      "download_count": 111,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-unknown-linux-musl.tar.gz"
