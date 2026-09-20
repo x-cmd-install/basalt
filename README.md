@@ -4,7 +4,7 @@
 
 TUI Application to manage Obsidian notes directly from the terminal
 
-![basalt](https://repo.x-cmd.io/basalt.svg)
+[![x-cmd/install — basalt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/basalt.svg)](https://x-cmd.com/install/basalt)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install basalt
 
 ## Code insight
 
-Total: **21,355** lines of code across **101** files in the top 5 languages.
+Total: **22,078** lines of code across **102** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 18,864 | 428 | 2,244 | 60 |
-| Toml | 1,050 | 153 | 140 | 24 |
+| Rust | 19,477 | 427 | 2,326 | 61 |
+| Toml | 1,160 | 153 | 154 | 24 |
 | Sass | 718 | 16 | 45 | 5 |
 | Html | 338 | 0 | 18 | 11 |
 | JavaScript | 209 | 7 | 22 | 1 |
@@ -33,27 +33,27 @@ Total: **21,355** lines of code across **101** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-08-14)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,355 · **Forks**: 38 · **Open issues**: 117 · **Contributors**: 9
+- **Stars**: 1,356 · **Forks**: 39 · **Open issues**: 117 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 510 · **Open PRs**: 4 · **Closed issues**: 78 · **Open issues**: 39 · **Commits**: 1178
+- **Releases**: 50 · **Merged PRs**: 515 · **Open PRs**: 1 · **Closed issues**: 79 · **Open issues**: 38 · **Commits**: 1188
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 30 | 3 | 0 | 0 | 36 |
-| last60d | 2026-07-20 | 2 | 64 | 4 | 2 | 0 | 95 |
-| 90d | 2026-06-20 | 3 | 111 | 4 | 5 | 3 | 146 |
-| last180d | 2026-03-22 | 6 | 196 | 4 | 13 | 6 | 286 |
-| 360d | 2025-09-23 | 21 | 427 | 4 | 39 | 18 | 649 |
-| last720d | 2024-09-28 | 50 | 510 | 4 | 78 | 39 | 1178 |
+| 30d | 2026-08-21 | 0 | 35 | 0 | 0 | 0 | 35 |
+| last60d | 2026-07-22 | 2 | 66 | 1 | 2 | 0 | 84 |
+| 90d | 2026-06-22 | 2 | 112 | 1 | 5 | 3 | 149 |
+| last180d | 2026-03-24 | 6 | 198 | 1 | 13 | 6 | 284 |
+| 360d | 2025-09-25 | 21 | 432 | 1 | 39 | 18 | 646 |
+| last720d | 2024-09-30 | 50 | 515 | 1 | 79 | 38 | 1188 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:47:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:37Z._
