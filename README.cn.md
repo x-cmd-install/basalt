@@ -4,7 +4,7 @@
 
 TUI Application to manage Obsidian notes directly from the terminal
 
-[![x-cmd/install — basalt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/basalt.svg?lang=zh)](https://x-cmd.com/install/basalt)
+[![x-cmd/install — basalt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/basalt.svg?lang=zh)](https://x-cmd.com/install/basalt)
 
 ## 安装
 
@@ -33,7 +33,7 @@ x install basalt
 ## 发布
 
 - **最新版本**: `nightly` (2026-08-14)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 18 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install basalt
 
 ## 累计统计
 
-- **发布数**: 50 · **已合并 PR**: 521 · **开放 PR**: 1 · **已关闭 issue**: 80 · **开放 issue**: 37 · **提交数**: 1200
+- **发布数**: 50 · **已合并 PR**: 522 · **开放 PR**: 2 · **已关闭 issue**: 80 · **开放 issue**: 37 · **提交数**: 1201
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 37 | 0 | 0 | 0 | 44 |
-| last60d | 2026-07-24 | 2 | 71 | 1 | 2 | 0 | 93 |
-| 90d | 2026-06-24 | 2 | 116 | 1 | 5 | 3 | 158 |
-| last180d | 2026-03-26 | 6 | 202 | 1 | 13 | 6 | 293 |
-| 360d | 2025-09-27 | 21 | 438 | 1 | 39 | 18 | 655 |
-| last720d | 2024-10-02 | 50 | 521 | 1 | 80 | 37 | 1200 |
+| 30d | 2026-08-24 | 0 | 36 | 1 | 0 | 0 | 45 |
+| last60d | 2026-07-25 | 2 | 72 | 2 | 2 | 0 | 94 |
+| 90d | 2026-06-25 | 2 | 117 | 2 | 5 | 3 | 159 |
+| last180d | 2026-03-27 | 6 | 202 | 2 | 13 | 6 | 294 |
+| 360d | 2025-09-28 | 21 | 438 | 2 | 39 | 18 | 656 |
+| last720d | 2024-10-03 | 50 | 522 | 2 | 80 | 37 | 1201 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ basalt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:58:36Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:12:56Z._
