@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1546497,
       "digest": "sha256:3f4cc9320ba3baba10f5c8d96cec9735a0d919f95e7ede82bffc729c51f692b8",
-      "download_count": 224,
+      "download_count": 228,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:1d841331859d48c6b13d40cf7f76ae135e914051e4a6c2eb2e8761dbf5ee631d",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-aarch64-apple-darwin.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1759207,
       "digest": "sha256:993cb14614a7ad78e10d1ed17d031c29f84ebe0ed8620ea045101590881e1f35",
-      "download_count": 68,
+      "download_count": 69,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-aarch64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:d62bbf1eea0cce290e2c5d0fc3be6587c2e4b6d3a72e06c7f6b44e763a56ad17",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:3b98eab082a0cc313d06177f7c7e0d30b9039be9c09b48a7d792f04d9ae5b9fb",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:25Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-apple-darwin.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2535233,
       "digest": "sha256:a695105ff92c8a3072ab8e147f7313dae83e382ab3056b876b089391e9383457",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-14T21:59:25Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-pc-windows-gnu.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1388811,
       "digest": "sha256:8b5e1138f64ddd5c994f86f003d70a9e672d5cfef8dededc8e0d0aa09da62e03",
-      "download_count": 158,
+      "download_count": 163,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1718252,
       "digest": "sha256:9db8679eac68eb6d84ca1c1b7b0e23351a61c2bda34c7d3652b325554c3f52d7",
-      "download_count": 340,
+      "download_count": 344,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:0e82d4d203e661bade9dbace51f656994ca6cab107bf980f7b302088e6c58e35",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1792332,
       "digest": "sha256:3ed2788769463387c2050440b078476b7ce496258b37a7559aa5483ca2906cf8",
-      "download_count": 119,
+      "download_count": 123,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-unknown-linux-musl.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:ca1bef02cbc49c49ab1ff1c0ea0e4bed6167e1045db6dbb22f9751d58162b7f6",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-08-14T21:59:26Z",
       "updated_at": "2026-08-14T21:59:26Z",
       "browser_download_url": "https://github.com/erikjuhani/basalt/releases/download/basalt/v0.12.7/basalt-0.12.7-x86_64-unknown-linux-musl.tar.gz.sha256"
