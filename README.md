@@ -14,11 +14,11 @@ x install basalt
 
 ## Code insight
 
-Total: **22,983** lines of code across **105** files in the top 5 languages.
+Total: **23,067** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 20,378 | 440 | 2,465 | 64 |
+| Rust | 20,462 | 440 | 2,485 | 65 |
 | Toml | 1,164 | 156 | 153 | 24 |
 | Sass | 718 | 16 | 45 | 5 |
 | Html | 338 | 0 | 18 | 11 |
@@ -38,22 +38,22 @@ Total: **22,983** lines of code across **105** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,358 · **Forks**: 39 · **Open issues**: 117 · **Contributors**: 9
+- **Stars**: 1,361 · **Forks**: 38 · **Open issues**: 117 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 523 · **Open PRs**: 2 · **Closed issues**: 80 · **Open issues**: 37 · **Commits**: 1202
+- **Releases**: 50 · **Merged PRs**: 524 · **Open PRs**: 1 · **Closed issues**: 81 · **Open issues**: 36 · **Commits**: 1206
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 37 | 1 | 0 | 0 | 46 |
-| last60d | 2026-07-26 | 2 | 73 | 2 | 2 | 0 | 95 |
-| 90d | 2026-06-26 | 2 | 118 | 2 | 5 | 3 | 160 |
-| last180d | 2026-03-28 | 6 | 203 | 2 | 13 | 6 | 295 |
-| 360d | 2025-09-29 | 21 | 439 | 2 | 39 | 18 | 657 |
-| last720d | 2024-10-04 | 50 | 523 | 2 | 80 | 37 | 1202 |
+| 30d | 2026-08-26 | 0 | 38 | 0 | 0 | 0 | 49 |
+| last60d | 2026-07-27 | 2 | 72 | 1 | 2 | 0 | 98 |
+| 90d | 2026-06-27 | 2 | 119 | 1 | 5 | 3 | 163 |
+| last180d | 2026-03-29 | 6 | 204 | 1 | 13 | 6 | 298 |
+| 360d | 2025-09-30 | 21 | 438 | 1 | 38 | 18 | 660 |
+| last720d | 2024-10-05 | 50 | 524 | 1 | 81 | 36 | 1206 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:48:30Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:00:34Z._
