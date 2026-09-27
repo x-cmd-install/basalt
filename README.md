@@ -33,27 +33,27 @@ Total: **23,067** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-08-14)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,363 · **Forks**: 37 · **Open issues**: 117 · **Contributors**: 9
+- **Stars**: 1,364 · **Forks**: 37 · **Open issues**: 117 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 525 · **Open PRs**: 1 · **Closed issues**: 81 · **Open issues**: 36 · **Commits**: 1207
+- **Releases**: 50 · **Merged PRs**: 526 · **Open PRs**: 2 · **Closed issues**: 81 · **Open issues**: 36 · **Commits**: 1208
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 39 | 0 | 0 | 0 | 50 |
-| last60d | 2026-07-28 | 2 | 72 | 1 | 2 | 0 | 99 |
-| 90d | 2026-06-28 | 2 | 120 | 1 | 5 | 3 | 164 |
-| last180d | 2026-03-30 | 6 | 203 | 1 | 13 | 6 | 299 |
-| 360d | 2025-10-01 | 21 | 439 | 1 | 38 | 18 | 661 |
-| last720d | 2024-10-06 | 50 | 525 | 1 | 81 | 36 | 1207 |
+| 30d | 2026-08-28 | 0 | 40 | 1 | 0 | 0 | 42 |
+| last60d | 2026-07-29 | 2 | 73 | 2 | 2 | 0 | 92 |
+| 90d | 2026-06-29 | 2 | 106 | 2 | 5 | 2 | 129 |
+| last180d | 2026-03-31 | 6 | 203 | 2 | 13 | 6 | 292 |
+| 360d | 2025-10-02 | 21 | 440 | 2 | 38 | 18 | 637 |
+| last720d | 2024-10-07 | 50 | 526 | 2 | 81 | 36 | 1208 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:58:38Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:23:13Z._
