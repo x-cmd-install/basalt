@@ -14,7 +14,7 @@ x install basalt
 
 ## Code insight
 
-Total: **23,067** lines of code across **106** files in the top 5 languages.
+Total: **23,093** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,7 +33,7 @@ Total: **23,067** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-08-14)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-09-28
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **23,067** lines of code across **106** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 526 · **Open PRs**: 2 · **Closed issues**: 81 · **Open issues**: 36 · **Commits**: 1208
+- **Releases**: 50 · **Merged PRs**: 530 · **Open PRs**: 1 · **Closed issues**: 81 · **Open issues**: 36 · **Commits**: 1220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 40 | 1 | 0 | 0 | 42 |
-| last60d | 2026-07-29 | 2 | 73 | 2 | 2 | 0 | 92 |
-| 90d | 2026-06-29 | 2 | 106 | 2 | 5 | 2 | 129 |
-| last180d | 2026-03-31 | 6 | 203 | 2 | 13 | 6 | 292 |
-| 360d | 2025-10-02 | 21 | 440 | 2 | 38 | 18 | 637 |
-| last720d | 2024-10-07 | 50 | 526 | 2 | 81 | 36 | 1208 |
+| 30d | 2026-08-29 | 0 | 44 | 1 | 0 | 0 | 51 |
+| last60d | 2026-07-30 | 2 | 76 | 1 | 2 | 0 | 101 |
+| 90d | 2026-06-30 | 2 | 110 | 1 | 5 | 2 | 138 |
+| last180d | 2026-04-01 | 6 | 207 | 1 | 13 | 6 | 301 |
+| 360d | 2025-10-03 | 21 | 443 | 1 | 38 | 18 | 646 |
+| last720d | 2024-10-08 | 50 | 530 | 1 | 81 | 36 | 1220 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:23:13Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:27:44Z._
