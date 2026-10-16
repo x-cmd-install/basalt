@@ -33,27 +33,27 @@ Total: **24,160** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,377 · **Forks**: 38 · **Open issues**: 119 · **Contributors**: 9
+- **Stars**: 1,378 · **Forks**: 38 · **Open issues**: 119 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 548 · **Open PRs**: 2 · **Closed issues**: 83 · **Open issues**: 36 · **Commits**: 1249
+- **Releases**: 51 · **Merged PRs**: 550 · **Open PRs**: 2 · **Closed issues**: 83 · **Open issues**: 36 · **Commits**: 1253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 40 | 2 | 1 | 1 | 50 |
-| last60d | 2026-08-16 | 2 | 71 | 2 | 1 | 1 | 88 |
-| 90d | 2026-07-17 | 3 | 108 | 2 | 3 | 1 | 149 |
-| last180d | 2026-04-18 | 6 | 211 | 2 | 13 | 7 | 301 |
-| 360d | 2025-10-20 | 21 | 444 | 2 | 38 | 18 | 658 |
-| last720d | 2024-10-25 | 51 | 548 | 2 | 83 | 36 | 1249 |
+| 30d | 2026-09-16 | 1 | 40 | 2 | 1 | 1 | 52 |
+| last60d | 2026-08-17 | 1 | 71 | 2 | 1 | 1 | 90 |
+| 90d | 2026-07-18 | 3 | 109 | 2 | 3 | 1 | 151 |
+| last180d | 2026-04-19 | 6 | 213 | 2 | 13 | 7 | 303 |
+| 360d | 2025-10-21 | 21 | 446 | 2 | 38 | 18 | 660 |
+| last720d | 2024-10-26 | 51 | 550 | 2 | 83 | 36 | 1253 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:40:57Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:33:03Z._
