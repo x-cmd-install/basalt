@@ -14,11 +14,11 @@ x install basalt
 
 ## Code insight
 
-Total: **24,274** lines of code across **106** files in the top 5 languages.
+Total: **24,337** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,641 | 447 | 2,653 | 65 |
+| Rust | 21,704 | 447 | 2,663 | 65 |
 | Toml | 1,166 | 162 | 154 | 24 |
 | Sass | 718 | 16 | 45 | 5 |
 | Html | 338 | 0 | 18 | 11 |
@@ -33,7 +33,7 @@ Total: **24,274** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-19
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **24,274** lines of code across **106** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 555 · **Open PRs**: 5 · **Closed issues**: 84 · **Open issues**: 40 · **Commits**: 1259
+- **Releases**: 51 · **Merged PRs**: 557 · **Open PRs**: 5 · **Closed issues**: 85 · **Open issues**: 39 · **Commits**: 1261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 42 | 5 | 2 | 5 | 39 |
-| last60d | 2026-08-19 | 1 | 75 | 5 | 2 | 5 | 88 |
-| 90d | 2026-07-20 | 3 | 109 | 5 | 4 | 5 | 141 |
-| last180d | 2026-04-21 | 6 | 213 | 5 | 14 | 11 | 292 |
-| 360d | 2025-10-23 | 21 | 451 | 5 | 39 | 22 | 665 |
-| last720d | 2024-10-28 | 51 | 555 | 5 | 84 | 40 | 1259 |
+| 30d | 2026-09-19 | 1 | 42 | 5 | 3 | 4 | 41 |
+| last60d | 2026-08-20 | 1 | 77 | 5 | 3 | 4 | 90 |
+| 90d | 2026-07-21 | 3 | 110 | 5 | 5 | 4 | 143 |
+| last180d | 2026-04-22 | 6 | 212 | 5 | 15 | 10 | 294 |
+| 360d | 2025-10-24 | 21 | 452 | 5 | 40 | 21 | 667 |
+| last720d | 2024-10-29 | 51 | 557 | 5 | 85 | 39 | 1261 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:32:30Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:47:38Z._
