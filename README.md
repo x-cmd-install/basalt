@@ -48,12 +48,12 @@ Total: **24,893** lines of code across **107** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 43 | 2 | 4 | 3 | 50 |
-| last60d | 2026-08-24 | 1 | 80 | 2 | 4 | 3 | 99 |
-| 90d | 2026-07-25 | 3 | 116 | 2 | 6 | 3 | 152 |
-| last180d | 2026-04-26 | 6 | 219 | 2 | 16 | 9 | 303 |
-| 360d | 2025-10-28 | 21 | 461 | 2 | 41 | 20 | 676 |
-| last720d | 2024-11-02 | 51 | 566 | 2 | 86 | 38 | 1277 |
+| 30d | 2026-09-24 | 1 | 42 | 2 | 4 | 3 | 50 |
+| last60d | 2026-08-25 | 1 | 80 | 2 | 4 | 3 | 99 |
+| 90d | 2026-07-26 | 3 | 116 | 2 | 6 | 3 | 152 |
+| last180d | 2026-04-27 | 6 | 217 | 2 | 16 | 9 | 303 |
+| 360d | 2025-10-29 | 21 | 461 | 2 | 41 | 20 | 676 |
+| last720d | 2024-11-03 | 51 | 566 | 2 | 86 | 38 | 1277 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:48:16Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:41:50Z._
