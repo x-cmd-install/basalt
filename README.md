@@ -33,27 +33,27 @@ Total: **26,689** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,381 · **Forks**: 39 · **Open issues**: 133 · **Contributors**: 10
+- **Stars**: 1,382 · **Forks**: 39 · **Open issues**: 133 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 578 · **Open PRs**: 6 · **Closed issues**: 91 · **Open issues**: 42 · **Commits**: 1305
+- **Releases**: 51 · **Merged PRs**: 579 · **Open PRs**: 7 · **Closed issues**: 91 · **Open issues**: 42 · **Commits**: 1306
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 47 | 6 | 9 | 7 | 54 |
-| last60d | 2026-08-30 | 1 | 91 | 6 | 9 | 7 | 111 |
-| 90d | 2026-07-31 | 3 | 124 | 6 | 10 | 7 | 163 |
-| last180d | 2026-05-02 | 6 | 229 | 6 | 19 | 13 | 312 |
-| 360d | 2025-11-03 | 21 | 469 | 6 | 45 | 24 | 684 |
-| last720d | 2024-11-08 | 51 | 578 | 6 | 91 | 42 | 1305 |
+| 30d | 2026-09-30 | 1 | 47 | 7 | 9 | 7 | 55 |
+| last60d | 2026-08-31 | 1 | 90 | 7 | 9 | 7 | 112 |
+| 90d | 2026-08-01 | 3 | 123 | 7 | 10 | 7 | 164 |
+| last180d | 2026-05-03 | 6 | 229 | 7 | 18 | 13 | 313 |
+| 360d | 2025-11-04 | 21 | 470 | 7 | 45 | 24 | 685 |
+| last720d | 2024-11-09 | 51 | 579 | 7 | 91 | 42 | 1306 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:55:03Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:53:52Z._
