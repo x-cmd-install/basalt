@@ -42,18 +42,18 @@ Total: **26,689** lines of code across **110** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 580 · **Open PRs**: 11 · **Closed issues**: 91 · **Open issues**: 42 · **Commits**: 1307
+- **Releases**: 51 · **Merged PRs**: 580 · **Open PRs**: 12 · **Closed issues**: 91 · **Open issues**: 42 · **Commits**: 1307
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 45 | 11 | 9 | 7 | 47 |
-| last60d | 2026-09-04 | 1 | 88 | 11 | 9 | 7 | 102 |
-| 90d | 2026-08-05 | 3 | 119 | 11 | 10 | 7 | 159 |
-| last180d | 2026-05-07 | 6 | 224 | 11 | 18 | 12 | 300 |
-| 360d | 2025-11-08 | 21 | 470 | 11 | 45 | 24 | 686 |
-| last720d | 2024-11-13 | 51 | 580 | 11 | 91 | 42 | 1307 |
+| 30d | 2026-10-05 | 0 | 43 | 12 | 9 | 7 | 47 |
+| last60d | 2026-09-05 | 1 | 87 | 12 | 9 | 7 | 102 |
+| 90d | 2026-08-06 | 3 | 119 | 12 | 10 | 7 | 159 |
+| last180d | 2026-05-08 | 6 | 224 | 12 | 18 | 12 | 300 |
+| 360d | 2025-11-09 | 21 | 470 | 12 | 45 | 24 | 686 |
+| last720d | 2024-11-14 | 51 | 580 | 12 | 91 | 42 | 1307 |
 
 ## Release assets
 
@@ -78,6 +78,14 @@ Total: **26,689** lines of code across **110** files in the top 5 languages.
 | [basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz) | 4.3 MiB | `native/linux/x64/musl` |
 | [basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/basalt). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.13.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `basalt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:55:47Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:23:15Z._
