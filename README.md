@@ -33,27 +33,27 @@ Total: **26,689** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-07
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,385 · **Forks**: 40 · **Open issues**: 134 · **Contributors**: 10
+- **Stars**: 1,387 · **Forks**: 40 · **Open issues**: 134 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 580 · **Open PRs**: 13 · **Closed issues**: 91 · **Open issues**: 43 · **Commits**: 1307
+- **Releases**: 51 · **Merged PRs**: 581 · **Open PRs**: 14 · **Closed issues**: 91 · **Open issues**: 43 · **Commits**: 1308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 41 | 13 | 9 | 8 | 47 |
-| last60d | 2026-09-07 | 1 | 83 | 13 | 9 | 8 | 102 |
-| 90d | 2026-08-08 | 3 | 119 | 13 | 10 | 8 | 159 |
-| last180d | 2026-05-10 | 6 | 224 | 13 | 18 | 12 | 300 |
-| 360d | 2025-11-11 | 21 | 469 | 13 | 45 | 25 | 686 |
-| last720d | 2024-11-16 | 51 | 580 | 13 | 91 | 43 | 1307 |
+| 30d | 2026-10-08 | 0 | 41 | 14 | 8 | 7 | 48 |
+| last60d | 2026-09-08 | 1 | 83 | 14 | 9 | 8 | 103 |
+| 90d | 2026-08-09 | 3 | 120 | 14 | 10 | 8 | 160 |
+| last180d | 2026-05-11 | 6 | 221 | 14 | 18 | 12 | 301 |
+| 360d | 2025-11-12 | 21 | 470 | 14 | 45 | 25 | 687 |
+| last720d | 2024-11-17 | 51 | 581 | 14 | 91 | 43 | 1308 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:48:46Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:58:38Z._
