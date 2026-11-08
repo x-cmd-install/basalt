@@ -38,22 +38,22 @@ Total: **26,689** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,387 · **Forks**: 40 · **Open issues**: 134 · **Contributors**: 10
+- **Stars**: 1,388 · **Forks**: 41 · **Open issues**: 134 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 581 · **Open PRs**: 14 · **Closed issues**: 91 · **Open issues**: 43 · **Commits**: 1308
+- **Releases**: 51 · **Merged PRs**: 581 · **Open PRs**: 17 · **Closed issues**: 91 · **Open issues**: 43 · **Commits**: 1308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 41 | 14 | 8 | 7 | 48 |
-| last60d | 2026-09-08 | 1 | 83 | 14 | 9 | 8 | 103 |
-| 90d | 2026-08-09 | 3 | 120 | 14 | 10 | 8 | 160 |
-| last180d | 2026-05-11 | 6 | 221 | 14 | 18 | 12 | 301 |
-| 360d | 2025-11-12 | 21 | 470 | 14 | 45 | 25 | 687 |
-| last720d | 2024-11-17 | 51 | 581 | 14 | 91 | 43 | 1308 |
+| 30d | 2026-10-09 | 0 | 40 | 17 | 8 | 7 | 38 |
+| last60d | 2026-09-09 | 1 | 82 | 17 | 9 | 8 | 94 |
+| 90d | 2026-08-10 | 3 | 115 | 17 | 10 | 8 | 136 |
+| last180d | 2026-05-12 | 6 | 221 | 17 | 18 | 12 | 269 |
+| 360d | 2025-11-13 | 21 | 470 | 17 | 45 | 25 | 683 |
+| last720d | 2024-11-18 | 51 | 581 | 17 | 91 | 43 | 1308 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:58:38Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:16:31Z._
