@@ -14,12 +14,12 @@ x install basalt
 
 ## Code insight
 
-Total: **29,398** lines of code across **114** files in the top 5 languages.
+Total: **29,424** lines of code across **114** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 26,650 | 478 | 3,331 | 71 |
-| Toml | 1,227 | 175 | 161 | 26 |
+| Rust | 26,676 | 478 | 3,333 | 71 |
+| Toml | 1,227 | 176 | 161 | 26 |
 | Sass | 718 | 16 | 45 | 5 |
 | Html | 338 | 0 | 18 | 11 |
 | JavaScript | 209 | 7 | 22 | 1 |
@@ -33,27 +33,27 @@ Total: **29,398** lines of code across **114** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-04)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-18
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,395 · **Forks**: 41 · **Open issues**: 134 · **Contributors**: 12
+- **Stars**: 1,397 · **Forks**: 42 · **Open issues**: 134 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 606 · **Open PRs**: 10 · **Closed issues**: 100 · **Open issues**: 34 · **Commits**: 1368
+- **Releases**: 51 · **Merged PRs**: 614 · **Open PRs**: 3 · **Closed issues**: 101 · **Open issues**: 33 · **Commits**: 1383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 46 | 10 | 8 | 2 | 57 |
-| last60d | 2026-09-18 | 1 | 93 | 10 | 14 | 3 | 111 |
-| 90d | 2026-08-19 | 1 | 126 | 10 | 14 | 3 | 162 |
-| last180d | 2026-05-21 | 4 | 226 | 10 | 22 | 6 | 300 |
-| 360d | 2025-11-22 | 21 | 493 | 10 | 53 | 17 | 711 |
-| last720d | 2024-11-27 | 51 | 606 | 10 | 100 | 34 | 1368 |
+| 30d | 2026-10-20 | 0 | 48 | 3 | 8 | 2 | 65 |
+| last60d | 2026-09-20 | 1 | 96 | 3 | 15 | 2 | 119 |
+| 90d | 2026-08-21 | 1 | 134 | 3 | 15 | 2 | 170 |
+| last180d | 2026-05-23 | 4 | 234 | 3 | 23 | 5 | 308 |
+| 360d | 2025-11-24 | 21 | 497 | 3 | 54 | 16 | 719 |
+| last720d | 2024-11-29 | 51 | 614 | 3 | 101 | 33 | 1383 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:13:36Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:30:21Z._
