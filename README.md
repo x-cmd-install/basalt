@@ -14,7 +14,7 @@ x install basalt
 
 ## Code insight
 
-Total: **29,443** lines of code across **114** files in the top 5 languages.
+Total: **29,466** lines of code across **114** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,18 +42,18 @@ Total: **29,443** lines of code across **114** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 619 · **Open PRs**: 4 · **Closed issues**: 102 · **Open issues**: 32 · **Commits**: 1393
+- **Releases**: 51 · **Merged PRs**: 622 · **Open PRs**: 3 · **Closed issues**: 102 · **Open issues**: 32 · **Commits**: 1400
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 53 | 3 | 8 | 2 | 0 |
-| last60d | 2026-09-24 | 1 | 95 | 4 | 15 | 2 | 0 |
-| 90d | 2026-08-25 | 1 | 133 | 4 | 15 | 2 | 0 |
-| last180d | 2026-05-27 | 4 | 234 | 4 | 22 | 5 | 0 |
-| 360d | 2025-11-28 | 21 | 495 | 4 | 54 | 16 | 0 |
-| last720d | 2024-12-03 | 51 | 619 | 4 | 102 | 32 | 1393 |
+| 30d | 2026-10-25 | 0 | 51 | 2 | 3 | 1 | 53 |
+| last60d | 2026-09-25 | 1 | 98 | 3 | 15 | 2 | 113 |
+| 90d | 2026-08-26 | 1 | 136 | 3 | 15 | 2 | 175 |
+| last180d | 2026-05-28 | 4 | 236 | 3 | 22 | 5 | 311 |
+| 360d | 2025-11-29 | 21 | 497 | 3 | 53 | 16 | 708 |
+| last720d | 2024-12-04 | 51 | 622 | 3 | 102 | 32 | 1400 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for basalt lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:23:41Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:49:59Z._
