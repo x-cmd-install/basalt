@@ -14,11 +14,11 @@ x install basalt
 
 ## 代码洞察
 
-合计: **29,466** 行代码（覆盖前 5 种语言、共 **114** 个文件）。
+合计: **29,467** 行代码（覆盖前 5 种语言、共 **114** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 26,695 | 478 | 3,336 | 71 |
+| Rust | 26,696 | 478 | 3,337 | 71 |
 | Toml | 1,227 | 176 | 161 | 26 |
 | Sass | 718 | 16 | 45 | 5 |
 | Html | 338 | 0 | 18 | 11 |
@@ -32,59 +32,53 @@ x install basalt
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-10-04)
-- **最近提交**: 2026-11-23
-- **Release 含资产**: 18 个
+- **最新版本**: `basalt/v0.14.0` (2026-11-24)
+- **最近提交**: 2026-11-24
+- **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 1,401 · **Fork**: 41 · **开放 issue**: 134 · **贡献者**: 12
+- **Star**: 1,403 · **Fork**: 42 · **开放 issue**: 134 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 622 · **开放 PR**: 3 · **已关闭 issue**: 102 · **开放 issue**: 32 · **提交数**: 1400
+- **发布数**: 55 · **已合并 PR**: 624 · **开放 PR**: 3 · **已关闭 issue**: 103 · **开放 issue**: 31 · **提交数**: 1405
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 51 | 2 | 3 | 1 | 53 |
-| last60d | 2026-09-25 | 1 | 98 | 3 | 15 | 2 | 113 |
-| 90d | 2026-08-26 | 1 | 136 | 3 | 15 | 2 | 175 |
-| last180d | 2026-05-28 | 4 | 236 | 3 | 22 | 5 | 311 |
-| 360d | 2025-11-29 | 21 | 497 | 3 | 53 | 16 | 708 |
-| last720d | 2024-12-04 | 51 | 622 | 3 | 102 | 32 | 1400 |
+| 30d | 2026-10-26 | 4 | 47 | 2 | 1 | 1 | 56 |
+| last60d | 2026-09-26 | 5 | 99 | 3 | 15 | 2 | 116 |
+| 90d | 2026-08-27 | 5 | 138 | 3 | 15 | 2 | 178 |
+| last180d | 2026-05-29 | 8 | 237 | 3 | 22 | 5 | 314 |
+| 360d | 2025-11-30 | 25 | 499 | 3 | 54 | 15 | 711 |
+| last720d | 2024-12-05 | 55 | 624 | 3 | 103 | 31 | 1405 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [basalt-0.13.0-aarch64-apple-darwin.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-aarch64-apple-darwin.tar.gz) | 3.6 MiB | `native/darwin/arm64` |
-| [basalt-0.13.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
-| [basalt-0.13.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-aarch64-unknown-linux-gnu.tar.gz) | 3.8 MiB | `native/linux/arm64/glibc` |
-| [basalt-0.13.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
-| [basalt-0.13.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-aarch64-unknown-linux-musl.tar.gz) | 3.8 MiB | `native/linux/arm64/musl` |
-| [basalt-0.13.0-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
-| [basalt-0.13.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-armv7-unknown-linux-gnueabihf.tar.gz) | 3.8 MiB | `native/linux/arm/glibc` |
-| [basalt-0.13.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 117 B | `native/linux/arm/glibc` |
-| [basalt-0.13.0-x86_64-apple-darwin.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/x64` |
-| [basalt-0.13.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
-| [basalt-0.13.0-x86_64-pc-windows-gnu.zip](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-pc-windows-gnu.zip) | 7.5 MiB | `native/win/x64` |
-| [basalt-0.13.0-x86_64-pc-windows-gnu.zip.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-pc-windows-gnu.zip.sha256) | 176 B | `native/win/x64` |
-| [basalt-0.13.0-x86_64-pc-windows-msvc.zip](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-pc-windows-msvc.zip) | 3.5 MiB | `native/win/x64` |
-| [basalt-0.13.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-pc-windows-msvc.zip.sha256) | 177 B | `native/win/x64` |
-| [basalt-0.13.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-unknown-linux-gnu.tar.gz) | 4.1 MiB | `native/linux/x64/glibc` |
-| [basalt-0.13.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
-| [basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz) | 4.3 MiB | `native/linux/x64/musl` |
-| [basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.13.0/basalt-0.13.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/basalt) 上共有 **6** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.13.0` | ✅ latest |
+| [basalt-0.14.0-aarch64-apple-darwin.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-aarch64-apple-darwin.tar.gz) | 5.4 MiB | `native/darwin/arm64` |
+| [basalt-0.14.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
+| [basalt-0.14.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-aarch64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/arm64/glibc` |
+| [basalt-0.14.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
+| [basalt-0.14.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-aarch64-unknown-linux-musl.tar.gz) | 5.9 MiB | `native/linux/arm64/musl` |
+| [basalt-0.14.0-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
+| [basalt-0.14.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-armv7-unknown-linux-gnueabihf.tar.gz) | 5.5 MiB | `native/linux/arm/glibc` |
+| [basalt-0.14.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256) | 117 B | `native/linux/arm/glibc` |
+| [basalt-0.14.0-x86_64-apple-darwin.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
+| [basalt-0.14.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
+| [basalt-0.14.0-x86_64-pc-windows-gnu.zip](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-pc-windows-gnu.zip) | 11.5 MiB | `native/win/x64` |
+| [basalt-0.14.0-x86_64-pc-windows-gnu.zip.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-pc-windows-gnu.zip.sha256) | 176 B | `native/win/x64` |
+| [basalt-0.14.0-x86_64-pc-windows-msvc.zip](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-pc-windows-msvc.zip) | 5.2 MiB | `native/win/x64` |
+| [basalt-0.14.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-pc-windows-msvc.zip.sha256) | 177 B | `native/win/x64` |
+| [basalt-0.14.0-x86_64-unknown-freebsd.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-unknown-freebsd.tar.gz) | 6.1 MiB | `native/linux/x64` |
+| [basalt-0.14.0-x86_64-unknown-freebsd.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-unknown-freebsd.tar.gz.sha256) | 110 B | `other` |
+| [basalt-0.14.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-unknown-linux-gnu.tar.gz) | 6.2 MiB | `native/linux/x64/glibc` |
+| [basalt-0.14.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [basalt-0.14.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-unknown-linux-musl.tar.gz) | 6.4 MiB | `native/linux/x64/musl` |
+| [basalt-0.14.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/erikjuhani/basalt/releases/download/basalt/v0.14.0/basalt-0.14.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -95,4 +89,4 @@ basalt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:49:59Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:38:36Z._
